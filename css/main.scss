@@ -25,6 +25,10 @@ body {
   font: 16px/26px $sans;
   color: $textColor;
   margin: 0;
+
+  @media all and (max-width: 640px) {
+    padding-top: 0;
+  }
 }
 
 h1, h2, h3, h4 {
@@ -44,7 +48,7 @@ h2 {
   clear: both;
 }
 
-header {
+header#logo {
   background: url(/images/hearts.svg) no-repeat var(--left) $logoPadding;
   background-size: auto var(--height);
   position: fixed;
@@ -59,11 +63,38 @@ header {
   h1 {
     display: none;
   }
+
+  @media all and (max-width: 640px) {
+    position: static;
+    background-position: $padding $padding;
+    background-size: auto $logoHeight;
+    height: $logoHeight + 2 * $padding;
+  }
+}
+
+header#menu {
+  position: fixed;
+  top: $padding;
+  right: $padding;
+  cursor: pointer;
+  @media all and (min-width: 641px) {
+    display: none;
+  }
+
+  &::before {
+    content: "☰";
+    text-align: right;
+    font-size: 36px;
+  }
 }
 
 main {
   max-width: $mainWidth;
   display: flex;
+
+  @media all and (max-width: 640px) {
+    display: block;
+  }
 
   nav {
     flex-shrink: 0;
@@ -94,6 +125,22 @@ main {
         }
       }
     }
+
+    @media all and (max-width: 640px) {
+      top: $padding * 3;
+      right: $padding;
+      background: white;
+      padding: $padding / 2;
+      z-index: 4;
+
+      &.hidden {
+        display: none;
+      }
+
+      ol {
+        padding: 0;
+      }
+    }
   }
 
   article {
@@ -109,6 +156,10 @@ main {
       color: $indicatorColor;
       font-weight: 500;
     }
+
+    @media all and (max-width: 640px) {
+      margin: 0;
+    }
   }
 }
 
@@ -122,7 +173,7 @@ main {
               padding 0.5s ease-in-out;
 
   &.reveal {
-    max-height: 1000px;
+    max-height: 2000px;
     padding-bottom: 40px;
   }
 
@@ -138,13 +189,19 @@ main {
   div {
     background: white;
     border: 1px solid #999;
-    padding: 40px;
+    padding: 2 * $padding;
     transform: rotate(-1deg);
     margin: 0 20px;
     box-shadow: 0 15px 10px 0 rgba(black, 0.1);
 
     p:first-child {
       margin-top: 0;
+    }
+
+    @media all and (max-width: 400px) {
+      transform: rotate(0);
+      padding: $padding;
+      margin: 0;
     }
   }
 }
@@ -178,5 +235,13 @@ dl {
 
   img {
     display: block;
+  }
+
+  @media all and (max-width: 640px) {
+    float: none;
+    display: block;
+    width: 80%;
+    margin: 0 0 2 * $padding;
+    position: static;
   }
 }
