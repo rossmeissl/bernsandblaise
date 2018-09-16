@@ -3,11 +3,43 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,500,500i,600,600i|Lora" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/scrollnav@2/dist/jquery.scrollNav.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/basicscroll@2/dist/basicScroll.min.js"></script>
   </head>
   <body>
+    <header>
+      <h1>Sara Blaise Huddleston and Andy Rossmeissl wedding and honeymoon 2019</h1>
+    </header>
     <main>
+      <article>
       {{ content }}
+      </article>
     </main>
+    <script>
+      $(document).ready(function () {
+        $('article').scrollNav({
+          showHeadline: false
+        });
+
+        $('.letter').click(function() {
+          $(this).toggleClass('reveal');
+        })
+
+        basicScroll.create({
+          elem: document.querySelector('header'),
+          from: '0',
+          to: '100px',
+          props: {
+            '--height': {
+              from: '200px',
+              to: '80px'
+            }
+          }
+        }).start()
+      });
+    </script>
   </body>
 </html>
