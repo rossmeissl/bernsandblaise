@@ -221,17 +221,14 @@ dl {
   }
 }
 
-.outstanding {
+.inset {
   float: right;
   width: 300px;
   background: white;
   padding: 5px;
-  margin: 0 0 -50px $padding;
-  transform: rotate(3deg);
   box-shadow: 0 5px 3px rgba(black, 0.1);
-  position: relative;
-  top: -50px;
   border-radius: 3px;
+  margin: 0 $padding $padding;
 
   img {
     display: block;
@@ -240,6 +237,16 @@ dl {
   @media all and (max-width: 640px) {
     float: none;
     display: block;
+  }
+}
+
+.outstanding {
+  margin-bottom: -50px;
+  transform: rotate(3deg);
+  position: relative;
+  top: -50px;
+
+  @media all and (max-width: 640px) {
     width: 80%;
     margin: 0 0 2 * $padding;
     position: static;
