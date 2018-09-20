@@ -1,9 +1,9 @@
 ## Sights
 
-{% include map-grenada.html %}
+[Map](http://www.puregrenada.com/about-the-islands/maps-directions/)
 It would take you about 2.5 hours to drive all the way around Grenada. Within this small island of about 100 square miles, you'll find a little of everything.
 
-Read a primer [here](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/articles/grenada-travel-guide/) and [here](https://www.lonelyplanet.com/grenada)
+Read a primer on the island [here](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/articles/grenada-travel-guide/) and [here](https://www.lonelyplanet.com/grenada)
 
 St. George's (Capital City)
 : [Guide](https://www.lonelyplanet.com/grenada/grenada-island/st-georges)
@@ -19,12 +19,16 @@ Beaches
 : [Beaches Overview](http://www.puregrenada.com/explore/attractions/beaches/)
 : [Grand Anse Beach](https://www.lonelyplanet.com/grenada/attractions/grand-anse/a/poi-sig/1025442/358047)
 
+Nature
+[Eco-Sites](http://www.puregrenada.com/explore/attractions/eco-sites/)
+[Botanical and Spice Gardens](http://www.puregrenada.com/explore/attractions/gardens/)
+
 Rum
 : [River Antoine Rum Distillery](<iframe src="//players.brightcove.net/5104226627001/default_default/index.html?videoId=5733952970001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>)
 : [Westerhall Estate](http://www.puregrenada.com/explore/attractions/historic-sites/westerhall-estate/#.W6MVbNhKh0s)
 
 Spices and Chocolate
-: [Belmont Estate](http://www.belmontestate.net/cocoa.htm)
+: [Belmont Estate Spice Plantation](http://www.belmontestate.net/cocoa.htm)
 : [Nutmeg Processing Cooperative](https://www.lonelyplanet.com/grenada/gouyave/attractions/nutmeg-processing-cooperative/a/poi-sig/1395288/358047)
 : [Grenada Spice Island Tour](https://www.lonelyplanet.com/grenada/activities/grenada-spice-island-tour/a/pa-act/v-6546SPICE/358047)
 
