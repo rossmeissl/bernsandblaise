@@ -10,7 +10,7 @@ Reception
 : **XXXXX, March X, 2019** from **1:30–3:30pm**. After the ceremony, head a mile up the road to the one and only **Hobnob** supper club for a BRUNCH GF OK.
 
 Lodging
-: We have a block rate at the **Wyndham Hotel** in downtown Kenosha. Use reference #**XXXXXXX**.
+: We have a block rate at the **Wyndham Hotel** in downtown Kenosha. Call the hotel to book at (262) 658-3281 and mention the **Huddleston-Rossmeissl wedding block**. To get the block rate, book before **February 20**.
 
 Kenosha
 : **Kenosha** is an old-fashioned Wisconsin town on the shores of beautiful Lake Michigan. While you're there, check out the famous [Mars Cheese Castle](https://www.marscheese.com/), stroll through the [Civil War](https://museums.kenosha.org/civilwar/) and [Public](https://museums.kenosha.org/public/) Museums, or visit nearby **Milwaukee** or **Chicago**.
