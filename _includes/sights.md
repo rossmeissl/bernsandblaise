@@ -3,7 +3,9 @@
 [Map](http://www.puregrenada.com/about-the-islands/maps-directions/)
 It would take you about 2.5 hours to drive all the way around Grenada. Within this small island of about 100 square miles, you'll find a little of everything.
 
-Read primers on the island [here](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/articles/grenada-travel-guide/) and [here](https://www.lonelyplanet.com/grenada)
+Primers 
+: [Telegraph](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/articles/grenada-travel-guide/)
+: [Lonely Planet](https://www.lonelyplanet.com/grenada)
 
 St. George's (Capital City)
 : [Guide](https://www.lonelyplanet.com/grenada/grenada-island/st-georges)
@@ -21,8 +23,8 @@ Beaches
 : [Grand Anse Beach](https://www.lonelyplanet.com/grenada/attractions/grand-anse/a/poi-sig/1025442/358047)
 
 Nature
-[Eco-Sites](http://www.puregrenada.com/explore/attractions/eco-sites/)
-[Botanical and Spice Gardens](http://www.puregrenada.com/explore/attractions/gardens/)
+: [Eco-Sites](http://www.puregrenada.com/explore/attractions/eco-sites/)
+: [Botanical and Spice Gardens](http://www.puregrenada.com/explore/attractions/gardens/)
 
 Rum
 : [River Antoine Rum Distillery Video](https://www.lonelyplanet.com/video/just-back-from-tasting-rum-in-grenada/v/vid/671)
