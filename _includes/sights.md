@@ -3,7 +3,7 @@
 [Map](http://www.puregrenada.com/about-the-islands/maps-directions/)
 It would take you about 2.5 hours to drive all the way around Grenada. Within this small island of about 100 square miles, you'll find a little of everything.
 
-Read a primer on the island [here](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/articles/grenada-travel-guide/) and [here](https://www.lonelyplanet.com/grenada)
+Read primers on the island [here](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/articles/grenada-travel-guide/) and [here](https://www.lonelyplanet.com/grenada)
 
 St. George's (Capital City)
 : [Guide](https://www.lonelyplanet.com/grenada/grenada-island/st-georges)
@@ -25,7 +25,7 @@ Nature
 [Botanical and Spice Gardens](http://www.puregrenada.com/explore/attractions/gardens/)
 
 Rum
-: [River Antoine Rum Distillery](<iframe src="//players.brightcove.net/5104226627001/default_default/index.html?videoId=5733952970001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>)
+: [River Antoine Rum Distillery Video](https://www.lonelyplanet.com/video/just-back-from-tasting-rum-in-grenada/v/vid/671)
 : [Westerhall Estate](http://www.puregrenada.com/explore/attractions/historic-sites/westerhall-estate/#.W6MVbNhKh0s)
 
 Spices and Chocolate
@@ -40,7 +40,7 @@ Snorkeling, Diving, and Other Aquatic Activities
 : [Sandy Island](https://www.lonelyplanet.com/grenada/attractions/sandy-island/a/poi-sig/1557967/358047)
 : [Top Dive Sites](https://www.lonelyplanet.com/grenada/in-location/activities/a/nar/5b0cbad0-d52c-4564-aa6a-8786c80fe2e7/358047)
 : [Dive Operators](http://www.puregrenada.com/explore/soft-adventure/snorkeling/)
-: [Island Routes](https://www.islandroutes.com/caribbean-tours/grenada/103/st-georges)
+: [Island Routes Adventures](https://www.islandroutes.com/caribbean-tours/grenada/103/st-georges)
 
 Bars
 : [Beach Bars](https://beachbarbums.com/category/beach-bars-grenada/)
