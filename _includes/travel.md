@@ -5,7 +5,7 @@ Generally speaking, the easiest and most affordable option will be to take one J
 Airport
 : Maurice Bishop International Airport (**GND**)
 
-Here's the method I used to find the **cheapest and best flights** from Boston, Burlington, Chicago, Los Angeles, New York, and San Franciso to Grenada.
+Here's the method we used to find the **cheapest and best flights** from Boston, Burlington, Chicago, Los Angeles, New York, and San Franciso to Grenada.
 
 {% include dates.html %}
 * Go to Google Flights with [this link](https://www.google.com/flights#flt=BTV.GND.2019-03-14*GND.BTV.2019-03-18;c:USD;e:1;sd:1;t:f)

@@ -58,7 +58,7 @@ header#logo {
   height: calc(var(--height) + 2 * #{$logoPadding});
   z-index: 3;
   will-change: height, background-size, background-position;
-  mouse-events: none;
+  pointer-events: none;
 
   h1 {
     display: none;
