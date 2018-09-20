@@ -8,5 +8,4 @@ Mount Cinnamon
 : We have a block rate at [Mount Cinnamon Resort](https://mountcinnamongrenadahotel.com/) for 20% off if you book direct. There are multi-bedroom units available if you want to share a spot with friends. Use reference number **ROSS031619**.
 
 Radisson Grenada Beach Resort
-: We also have a block rate available at the Radisson Grenada Beach Resort (#) which is a more affordable option. Use reference number **XXXXXXX**.
-
+: We also have a block rate available at the Radisson Grenada Beach Resort (#) which is a more affordable option. Reservations may be confirmed by calling 1 (800) 333-3333, or by visiting www.radisson.com and using Promotional Code **1903HUDD** under the More Search Options section. Note that this block has a cutoff date of **Tuesday, Feb 12, 2019**.
