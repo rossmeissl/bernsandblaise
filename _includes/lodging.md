@@ -5,7 +5,7 @@ The best guide to Grenada's hotels we've found is at [The Telegraph](https://www
 Even if you don't stay with us at the **Mount Cinnamon Resort**, we’d still love for you to stay near us on **Grand Anse Beach**, where there are a variety of other hotels, resorts, and Airbnbs available. The Grand Anse Beach area is all walkable and there are frequent buses from there up to St. George's, the capital city.
 
 Mount Cinnamon
-: We have a block rate at [Mount Cinnamon Resort](https://mountcinnamongrenadahotel.com/) for 20% off if you book direct. There are multi-bedroom units available if you want to share a spot with friends. Use reference number **ROSS031619**.
+: We have a block rate at [Mount Cinnamon Resort](https://mountcinnamongrenadahotel.com/) for 20% off if you book direct. There are multi-bedroom units available if you want to share a spot with friends. Reach out to our pal [Odissa](mailto:reservations@mountcinnamongrenada.com) and use reference number **ROSS031619**.
 
 Blue Horizons
 : Steps away from Mount Cinnamon is the mid-range [Blue Horizons Garden Resort](https://www.grenadabluehorizons.com/en-us). We don't have a block rate here (yet) but the prices are reasonable without one.
