@@ -1,5 +1,7 @@
 ## Lodging
 
+<img src="/images/cinnamon.jpg" class="inset" />
+
 The best guide to Grenada's hotels we've found is at [The Telegraph](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/hotels/).
 
 Even if you don't stay with us at the **Mount Cinnamon Resort**, we’d still love for you to stay near us on **Grand Anse Beach**, where there are a variety of other hotels, resorts, and Airbnbs available. The Grand Anse Beach area is all walkable and there are frequent buses from there up to St. George's, the capital city.

@@ -1,18 +1,30 @@
 <section class="letter">
   <div markdown="1">
-Dear friends and family,
+Dear guests,
 
-You read that right: you're invited to our honeymoon. Let us explain.
+You read that right: you're invited to our honeymoon. We have some explaining to do.
 
-From our very first vacation together in Kauai to our (frankly pretty tame) spring breaks in Miami to our _passagiatti_ in Sicily, we have relished the unhurried magic of discovering a new place. Many of our favorite times with all of you have likewise found us in repose rather than on a schedule: blissful apres-hike afternoons in Vermont, strolls around the Madison farmer's market, long walks through museums everywhere.
+From our very first vacation together in Kauai to our (frankly pretty tame) spring breaks in Miami to our *passagiatti* in Sicily, we have relished the unhurried magic of discovering a new place. Many of our favorite times with all of you have likewise found us in repose rather than on a schedule: blissful apres-hike afternoons in Vermont, strolls around the Madison farmer's market, long walks through museums everywhere.
 
-Since we were engaged last October (during one of those very Vermont hikes), our wedding plans have zigged and zagged. But we've returned time and again to the vision of a vacation we all happen to take at the same time, to the same place.
+Since we were engaged in October 2017, our wedding plans have zigged and zagged. But we've returned time and again to the idea of a vacation that we all happen to take at the same time, to the same place.
 
-We've never been to Grenada; maybe you haven't either. We will certainly be throwing a party one night, including rings and a dress and a few brief vows, but there will be no other formal schedule. It's our hope that we can all explore this beautiful place together, in parallel, or even just nearby. We'll be there for 10 days: feel free to join us for as many or as few of any of these days that you'd like.
+And that’s how we arrived at this unconventional wedding plan: inviting you along to our honeymoon in Grenada. We will certainly be throwing a party one night, including rings and a dress and a few brief vows, but there will be no other formal schedule. We’re excited to spend a few days or a week with all of you in this beautiful place at relaxed pace.
 
-This is a honeymoon, not a wedding: no presents! Spend the money on sunscreen. Please also don't feel bad if this isn't your thing, or if you can't come. We won't take it personally and promise to come visit you soon for a private vows recital. If, on the other hand, you're thinking of planning a winter getaway somewhere warm, consider this time and place. We'd love to see you.
+As excited as we are for you to join us, we want you to know that we will *not* be hurt if you can’t make it. We understand that it’s a big ask for you to pack up and head to the West Indies, especially for those of you with small children or hectic schedules. We truly will not take it personally if you can’t come; in fact, we’ll visit *you* for a private vows recital. If, on the other hand, you're thinking of planning a winter getaway somewhere warm, consider this time and place. We'd love to see you.
 
-XOX,
-Sara Blaise and Andy
+{% unless page.family %}
+If we do see you there, we’ll be married! Our legally sanctioned ceremony will have taken place the weekend before at a teeny-tiny family chapel in Wisconsin that can only fit our relatives. As much as we wish you could join us, rest assured that Grenada is a much less blustery spot than the shores of Lake Michigan in March.
+{% endunless %}
+
+Finally, please, **no gifts**! Your presence is your present. We can’t imagine any better gift. Spend the money on sunscreen!
+
+{% if page.family %}
+But first, we're getting hitched! For those of you on the other sides of the family, the site of the ceremony, the Joan C. Potente Chapel, was designed for and given as a surprise gift to Sara Blaise's grandmother, Joan, by Sara Blaise’s grandfather, who was part of a three-generation family liturgical design business. Beware that Kenosha in March is roughly the opposite of Grenada! Please know that we will not be hurt if you can’t come to both the ceremony and the honeymoon. That’s a lot. And again, please, no presents! We'll have lunch together after the ceremony and then start packing our swimsuits.
+{% endif %}
+
+We can’t wait to celebrate with you!
+
+Love,
+SB & Andy
   </div>
 </section>

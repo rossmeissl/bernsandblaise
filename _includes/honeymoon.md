@@ -1,5 +1,7 @@
 ## Honeymoon
 
+<img src="/images/grenada.jpg" class="inset" />
+
 When
 : **March 15–22, 2019**. Come anytime in this window and stay for as long as you'd like. Most people will come Friday March 15 and stay for a long weekend so they don't miss the [party](#party).
 

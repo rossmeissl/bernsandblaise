@@ -1,5 +1,7 @@
 ## Party
 
+{% include savvys.html %}
+
 When
 : **March 16, 2019 at 5:30pm**. Things should be wrapped up by midnight.
 

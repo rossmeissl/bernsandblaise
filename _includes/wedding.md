@@ -1,5 +1,7 @@
 ## Wedding
 
+<img src="/images/chapel.jpg" class="inset" />
+
 Welcome
 : **XXXXX, March X, 2019** at **7pm**. Please join us at **XXXXXXXX** for a casual dinner.
 
