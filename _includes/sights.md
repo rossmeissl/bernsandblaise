@@ -16,6 +16,7 @@ Hiking
 : [Grenada Waterfall Hikes](https://www.usatoday.com/story/travel/experience/caribbean/2017/05/01/waterfall-hikes-grenada/101040676/)
 
 Beaches
+: [Top Grenada Beaches](https://www.telegraph.co.uk/travel/destinations/caribbean/grenada/articles/grenada-beaches/)
 : [Beaches Overview](http://www.puregrenada.com/explore/attractions/beaches/)
 : [Grand Anse Beach](https://www.lonelyplanet.com/grenada/attractions/grand-anse/a/poi-sig/1025442/358047)
 
@@ -32,7 +33,8 @@ Spices and Chocolate
 : [Nutmeg Processing Cooperative](https://www.lonelyplanet.com/grenada/gouyave/attractions/nutmeg-processing-cooperative/a/poi-sig/1395288/358047)
 : [Grenada Spice Island Tour](https://www.lonelyplanet.com/grenada/activities/grenada-spice-island-tour/a/pa-act/v-6546SPICE/358047)
 
-Snorkeling and Other Aquatic Activities
+Snorkeling, Diving, and Other Aquatic Activities
+: [Water Sports](http://www.puregrenada.com/explore/soft-adventure/water-sports/)
 : [Grooms Beach](https://www.lonelyplanet.com/grenada/attractions/grooms-beach/a/poi-sig/1395226/358047)
 : [Underwater Sculpture Park](https://www.lonelyplanet.com/grenada/st-georges/attractions/underwater-sculpture-park/a/poi-sig/1555233/358047)
 : [Sandy Island](https://www.lonelyplanet.com/grenada/attractions/sandy-island/a/poi-sig/1557967/358047)
@@ -40,13 +42,10 @@ Snorkeling and Other Aquatic Activities
 : [Dive Operators](http://www.puregrenada.com/explore/soft-adventure/snorkeling/)
 : [Island Routes](https://www.islandroutes.com/caribbean-tours/grenada/103/st-georges)
 
-
-Surfing
-: Lorem ipsum dolor
+Bars
+: [Beach Bars](https://beachbarbums.com/category/beach-bars-grenada/)
+: [SW Grenada Bars](https://www.google.com/search?rlz=1C5CHFA_enUS775US775&tbm=lcl&q=best+beach+bars+grenada&rflfq=1&num=20&stick=H4sIAAAAAAAAAB3Ou2kDARCEYS4xCg3n6CKXsO-dqcJNCIQQnEDYfakuVaE9pz_Dt3v62L7USgArkBagaEVOzVa2laczmq2iMdXbqTRkSlWXx38tcXUxUQ2KWFRyW6MVPOgKqxBvHlOz2YSlDu8Jaa9tpRBRTpfwgUHHRDOJ9vliyGx06MQRZ2OepKqW4UA7QjGfJphtKLTNfRgOQ9EVDXWX57K8ls-fv9_z_f74Pj-u--26X95juZFWBQEAAA&sa=X&ved=2ahUKEwiIstTK1sjdAhUOUt8KHYwJBIUQ_KoBMA56BAgFEAU&biw=1378&bih=718)
 
 Beer
-: Lorem ipsum dolor
-
-Bars
-: Lorem ipsum dolor
-
+: [West Indies Beer Co.](http://www.westindiesbeer.com/bar.html)
+: [Carib Brewery](http://www.caribbrewery.com/brewery-2/grenada)
