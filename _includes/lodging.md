@@ -13,7 +13,7 @@ Blue Horizons
 : Steps away from Mount Cinnamon is the mid-range [Blue Horizons Garden Resort](https://www.grenadabluehorizons.com/en-us). We don't have a block rate here (yet) but the prices are reasonable without one.
 
 Radisson
-: We also have a block rate available at the [Radisson Grenada Beach Resort](https://www.radisson.com/st-georges-hotel-gd/grdgrgr) which is a bigger and more affordable option. Call (800) 333-3333 or [book online](https://www.radisson.com) using promotional code **1903HUDD** under the "More Search Options" section. Note that this block has a cutoff date of **Tuesday, Feb 12, 2019**.
+: We also will shortly have a block rate available at the [Radisson Grenada Beach Resort](https://www.radisson.com/st-georges-hotel-gd/grdgrgr) which is a bigger and more affordable option. <!-- Call (800) 333-3333 or [book online](https://www.radisson.com) using promotional code **1903HUDD** under the "More Search Options" section. Note that this block has a cutoff date of **Tuesday, Feb 12, 2019**.-->
 
 Airbnb
-: There is a thriving Airbnb scene throughout the Caribbean. Some units even include housekeeping and a cook! Check out the [listings](https://www.airbnb.com/s/Grand-Anse-Beach--Grenada) for more info.
+: There is a thriving Airbnb scene throughout the Caribbean. Check out the [listings](https://www.airbnb.com/s/Grand-Anse-Beach--Grenada) for more info.

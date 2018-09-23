@@ -6,18 +6,18 @@ Location
 : We'll be getting married in **Kenosha, Wisconsin**, but everything else below will be taking place in neighboring **Racine**.
 
 Welcome
-: **Friday, March 8, 2019** from **6:30–8:30pm**. Please join us at the one and only [Hobnob](https://www.thehobnob.com/) for a traditional Wisconsin fish fry and drinks.
+: **Friday, March 8, 2019**, from **6:30–8:30pm**. Please join us at the one and only [Hobnob](https://www.thehobnob.com/) for a traditional Wisconsin fish fry and drinks.
 
 Ceremony
-: **Saturday, March 9, 2019** at **noon**. We'll be married at the teeny-tiny **Joan C. Potente Chapel**, which is named after Sara Blaise's grandmother. The Chapel is on the grounds of **Carthage College**—here's a [map](https://www.carthage.edu/live/files/3314-campus-map-flat-versionpdf).
+: **Saturday, March 9, 2019**, at **noon**. We'll be married at the teeny-tiny **Joan C. Potente Chapel**, which is named after Sara Blaise's grandmother. The Chapel is on the grounds of **Carthage College**—here's a [map](https://www.carthage.edu/live/files/3314-campus-map-flat-versionpdf).
 
 <img src="/images/lochnaiar.jpg" class="inset" />
 
 Reception
-: **Saturday, March 9, 2019** from **1:30–3:30pm**. After the ceremony, please join us at the [Lochnaiar Inn](https://www.lochnaiarinn.com/) for a luncheon reception.
+: **Saturday, March 9, 2019**, from **1:30–3:30pm**. After the ceremony, please join us at the [Lochnaiar Inn](https://www.lochnaiarinn.com/) in Racine for a luncheon reception.
 
 Breakfast
-: **Sunday, March 10, 2019** from **9:00-10:30am** at the Lochnaiar. We'll be serving Racine's world-famous kringle and saying our goodbyes (but maybe only until the next weekend!).
+: **Sunday, March 10, 2019**, from **9:00-10:30am** at the Lochnaiar. We'll be serving Racine's world-famous kringle and saying our goodbyes (but maybe only until the next weekend!).
 
 Lodging
 : We will have a block rate at the [DoubleTree Harbourwalk](https://doubletree3.hilton.com/en/hotels/wisconsin/doubletree-by-hilton-hotel-racine-harbourwalk-RACGLDT/index.html) in downtown Racine. Booking details forthcoming.

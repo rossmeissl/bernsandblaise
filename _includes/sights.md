@@ -29,7 +29,7 @@ Beaches
 Nature
 : If you're not up for the hike, you can still visit [Grant Etang Lake](http://www.puregrenada.com/explore/attractions/eco-sites/grand-etang-lake/).
 : **Birdwatching** is increasingly popular on Grenada. Check out [Lake Antoine](http://www.puregrenada.com/explore/attractions/eco-sites/lake-antoine/), [Levera National Park](http://www.puregrenada.com/explore/attractions/eco-sites/levera-national-park/), or the [Mt. Hartman Dove Sanctuary](http://www.puregrenada.com/explore/attractions/eco-sites/mt-hartman-dove-sancturay/), home of the Grenada Dove. Here's a [brochure](http://www.caribbeanbirdingtrail.org/wp-content/uploads/2013/01/Brochure-for-Grenada-and-Map.pdf) from the Caribbean Birding Trail with a list of the best birdwatching sites and birding guides.
-: If **botanical gardens** are your thing, visit [Hyde Park](https://www.hydeparkgrenada.com/where-to-find-us.html) or [Jessamine's Eden](http://www.jessamine-eden.com/), 
+: If **botanical gardens** are your thing, visit [Hyde Park](https://www.hydeparkgrenada.com/where-to-find-us.html) or [Jessamine's Eden](http://www.jessamine-eden.com/).
 
 Rum
 : The **River Antoine Rum Distillery** has been in continuous operation since 1785 using local sugar cane along with oxen and water power to crush the cane. Here's a great [video](https://www.lonelyplanet.com/video/just-back-from-tasting-rum-in-grenada/v/vid/671) from Lonely Planet.
