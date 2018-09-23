@@ -14,3 +14,4 @@ family: true
 {% include lodging.md %}
 {% include travel.md %}
 {% include registry.md %}
+{% include contact.md %}
