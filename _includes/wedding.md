@@ -23,7 +23,8 @@ Lodging
 : We will have a block rate at the [DoubleTree Harbourwalk](https://doubletree3.hilton.com/en/hotels/wisconsin/doubletree-by-hilton-hotel-racine-harbourwalk-RACGLDT/index.html) in downtown Racine. Booking details forthcoming.
 
 Kenosha
-: **Kenosha** is an old-fashioned Wisconsin town on the shores of beautiful Lake Michigan. While you're there, make sure to go to our favorite Italian deli/grocery store: [Tenuta's](http://www.tenutasdeli.com/). You can also check out the famous [Mars Cheese Castle](https://www.marscheese.com/), stroll through the [Civil War](https://museums.kenosha.org/civilwar/) and [Public](https://museums.kenosha.org/public/) Museums on the lakefront, or visit nearby **Milwaukee** or **Chicago**.
+: **Kenosha** is an old-fashioned Wisconsin town on the shores of beautiful Lake Michigan. While you're there, make sure to honor Sara's family heritage and hit up our favorite Italian deli/grocery store (a Kenosha tradition for 67 years!), [Tenuta's](http://www.tenutasdeli.com/). 
+You can also check out the famous [Mars Cheese Castle](https://www.marscheese.com/), stroll through the [Civil War](https://museums.kenosha.org/civilwar/) and [Public](https://museums.kenosha.org/public/) Museums on the lakefront, or visit nearby **Milwaukee** or **Chicago**.
 
 Racine
 : Just up the road, **Racine** is home to one of Frank Lloyd Wright's masterpieces, the [SC Johnson Wax building](http://www.scjohnson.com/en/company/visiting.aspx), which offers tours. You can also walk/run along the city's [Root River](http://www.rootrivercouncil.org/experience-the-root/root-river-pathway/), take in the country's largest collection of contemporary craft art at the [Racine Art Museum](https://www.ramart.org/), or visit the dramatic [Wind Point Lighthouse](http://windpointlighthouse.org/).
