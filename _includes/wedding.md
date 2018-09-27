@@ -24,6 +24,7 @@ Lodging
 
 Kenosha
 : **Kenosha** is an old-fashioned Wisconsin town on the shores of beautiful Lake Michigan. While you're there, make sure to honor Sara's Potente family heritage and hit up our favorite Italian deli/grocery store (a Kenosha tradition for 67 years!), [Tenuta's](http://www.tenutasdeli.com/). 
+The [Southport Light Station Museum](https://www.visitkenosha.com/things-to-do/southport-light-station-museum) is also a cool restored lighthouse site that details Kenosha harbor's history.
 You can also check out the famous [Mars Cheese Castle](https://www.marscheese.com/), stroll through the [Civil War](https://museums.kenosha.org/civilwar/) and [Public](https://museums.kenosha.org/public/) Museums on the lakefront, or visit nearby **Milwaukee** or **Chicago**.
 
 Racine
