@@ -9,9 +9,6 @@ Even if you don't stay with us at the **Mount Cinnamon Resort**, we’d still lo
 Mount Cinnamon
 : We have a block rate at [Mount Cinnamon Resort](https://mountcinnamongrenadahotel.com/) for **20% off** if you book direct. If you're comfortable with a *non-refundable rate* you can save even more. There are multi-bedroom units available if you want to share a spot with friends. Reach out to our pal [Odissa](mailto:reservations@mountcinnamongrenada.com) and use reference number **ROSS031619**. It's not a huge resort so book soon if you want to stay here. 
 
-Blue Horizons
-: Steps away from Mount Cinnamon is the mid-range [Blue Horizons Garden Resort](https://www.grenadabluehorizons.com/en-us). We don't have a block rate here (yet) but the prices are reasonable without one.
-
 Radisson
 : We also will shortly have a block rate available at the [Radisson Grenada Beach Resort](https://www.radisson.com/st-georges-hotel-gd/grdgrgr) which is a bigger and more affordable option. <!-- Call (800) 333-3333 or [book online](https://www.radisson.com) using promotional code **1903HUDD** under the "More Search Options" section. Note that this block has a cutoff date of **Tuesday, Feb 12, 2019**.-->
 
