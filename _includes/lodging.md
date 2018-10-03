@@ -10,7 +10,7 @@ Mount Cinnamon
 : We have a block rate at [Mount Cinnamon Resort](https://mountcinnamongrenadahotel.com/) for **20% off** if you book direct. If you're comfortable with a *non-refundable rate* you can save even more. There are multi-bedroom units available if you want to share a spot with friends. Reach out to our pal [Odissa](mailto:reservations@mountcinnamongrenada.com) and use reference number **ROSS031619**. It's not a huge resort so book soon if you want to stay here. 
 
 Radisson
-: We also will shortly have a block rate available at the [Radisson Grenada Beach Resort](https://www.radisson.com/st-georges-hotel-gd/grdgrgr) which is a bigger and more affordable option. <!-- Call (800) 333-3333 or [book online](https://www.radisson.com) using promotional code **1903HUDD** under the "More Search Options" section. Note that this block has a cutoff date of **Tuesday, Feb 12, 2019**.-->
+: We block rate at the nearby [Radisson Grenada Beach Resort](https://www.radisson.com/st-georges-hotel-gd/grdgrgr) which is a bigger and more affordable option. Call (800) 333-3333 or [book online](https://www.radisson.com) using promotional code **1903HUDD** under the "More Search Options" section. Note that this block has a cutoff date of **Tuesday, Feb 12, 2019**. [Room options](http://www.radisson.com/st-georges-hotel-gd/grdgrgr/rooms?language=EN) include 2 double beds for **$96**/night, premium king for **$133**/night, premium 2 doubles for **$199**, and ocean view king for **$248**.
 
 Airbnb
 : There is a thriving Airbnb scene throughout the Caribbean. Check out the [listings](https://www.airbnb.com/s/Grand-Anse-Beach--Grenada) for more info.
