@@ -1,13 +1,13 @@
 ## Party
 
 When
-: **March 16, 2019 at 5:30pm**. Things should be wrapped up by midnight.
+: **March 16, 2019** promptly at **6pm**. Things should be wrapped up by midnight.
 
 Where
 : **Beach Cabana, Mount Cinnamon Resort**.
 
 What
-: **Food, drink and music**. There will also be a **ceremony**.
+: First, a **ceremony** during sunset, then **food, drink and music**.
 
 Who
 : **No children, please**. We'll have information forthcoming on what to do with your kiddos.
