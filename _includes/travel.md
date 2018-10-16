@@ -15,3 +15,5 @@ Here's the method we used to find the **cheapest and best flights** from Boston,
 * Click the large "Dates" box (see example at right) and explore the pricing grid — in many cases, moving one of your dates forward or back by a day can dramatically reduce your price
 
 * If Google Flights doesn't try routing you through JFK on JetBlue, you may want to try booking your flight as two separate roundtrips: one from your origin to JFK, and another from JFK to GND
+
+* Sometimes Google Flights "forgets" to consider JetBlue, even when routing you through New York. You can fix this by using the "Airlines" dropdown and choosing JetBlue.
