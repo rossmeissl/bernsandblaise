@@ -4,6 +4,7 @@ title: Berns & Blaise
 family: true
 ---
 
+{% include rsvp-family.md %}
 {% include intro-family.md %}
 {% include wait.md %}
 {% include wedding.md %}

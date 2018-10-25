@@ -1,0 +1,1 @@
+[{% include heart.svg %} **Please RSVP** by December 15](https://docs.google.com/forms/d/e/1FAIpQLSe6oGr9e-hjWp9lu7Beh4rCCI_XUvHWVODQA9__J-JgWSBejg/viewform?usp=sf_link){:.rsvp}

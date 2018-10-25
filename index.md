@@ -3,6 +3,7 @@ layout: default
 title: Berns & Blaise
 ---
 
+{% include rsvp-friends.md %}
 {% include intro.md %}
 {% include wait.md %}
 {% include honeymoon.md %}

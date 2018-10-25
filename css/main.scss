@@ -252,3 +252,25 @@ dl {
     position: static;
   }
 }
+
+a.rsvp {
+  display: block;
+  background: white;
+  background-size: 24px;
+  padding: 16px 16px 16px 20px;
+  border: 1px solid rgba($flavorColor,0.2);
+  margin: 0 0 64px 0;
+
+  svg {
+    width: 24px;
+    height: 24px;
+    margin: 0 12px 0 0;
+    display: inline-block;
+    position: relative;
+    top:4px;
+
+    path {
+      fill: $flavorColor;
+    }
+  }
+}
