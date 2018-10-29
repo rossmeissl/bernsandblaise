@@ -1,6 +1,6 @@
 ## Travel
 
-Generally speaking, the easiest and most affordable option will be to take one of **JetBlue's daily nonstop flights** from JFK airport in New York. Flight search engines may not always "find" these routes, because they often require an overnight stay in NYC on your outbound leg: the flight leaves first thing in the morning.
+Generally speaking, the easiest and most affordable option will be to take one of **JetBlue's 5 nonstop flights each week** from JFK airport in New York. Flights run every day **except Monday and Wednsday**. Flight search engines may not always "find" these routes, because they often require an overnight stay in NYC on your outbound leg: the flight leaves first thing in the morning.
 
 Airport
 : Maurice Bishop International Airport (**GND**)
