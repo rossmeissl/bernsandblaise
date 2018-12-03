@@ -19,3 +19,4 @@ Here's the method we used to find the **cheapest and best flights** from Boston,
 * If Google Flights doesn't try routing you through JFK on JetBlue, you may want to try booking your flight as two separate roundtrips: one from your origin to JFK, and another from JFK to GND
 
 * Sometimes Google Flights "forgets" to consider JetBlue, even when routing you through New York. You can fix this by using the "Airlines" dropdown and choosing JetBlue.
+
