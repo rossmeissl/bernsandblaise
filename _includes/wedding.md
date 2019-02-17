@@ -9,7 +9,7 @@ Welcome
 : **Friday, March 8, 2019**, from **6:30–8:30pm**. Please join us at the one and only [Hobnob](https://www.thehobnob.com/) for a traditional Wisconsin fish fry and drinks.
 
 Ceremony
-: **Saturday, March 9, 2019**, at **12:30 pm**. We'll be married at the teeny-tiny **Joan C. Potente Chapel**, which is named after Sara Blaise's grandmother. The Chapel is on the grounds of **Carthage College**—here's a [map](https://www.carthage.edu/live/files/3314-campus-map-flat-versionpdf).
+: **Saturday, March 9, 2019**, at **12:00 pm**. We'll be married at the teeny-tiny **Joan C. Potente Chapel**, which is named after Sara Blaise's grandmother. The Chapel is on the grounds of **Carthage College**—here's a [map](https://www.carthage.edu/live/files/3314-campus-map-flat-versionpdf).
 
 <img src="/images/lochnaiar.jpg" class="inset" />
 
