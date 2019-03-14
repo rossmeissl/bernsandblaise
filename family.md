@@ -4,7 +4,6 @@ title: Berns & Blaise
 family: true
 ---
 
-{% include rsvp-family.md %}
 {% include intro-family.md %}
 {% include wait.md %}
 {% include wedding.md %}
@@ -12,6 +11,7 @@ family: true
 {% include party.md %}
 {% include grenada.md %}
 {% include sights.md %}
+{% include ideas.md %}
 {% include lodging.md %}
 {% include travel.md %}
 {% include registry.md %}

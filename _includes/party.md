@@ -1,7 +1,7 @@
 ## Party
 
 When
-: **March 16, 2019** promptly at **6pm**. Things should be wrapped up by midnight.
+: **Saturday, March 16, 2019** arriving promptly by **5:45pm**. Things should be wrapped up by midnight.
 
 Where
 : **Beach Cabana, Mount Cinnamon Resort**.
